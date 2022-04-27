@@ -13,7 +13,7 @@ Project developed with the assistance of:
   - :octocat: Amandeep-Rathee
 - Fahad 
   - :octocat: fahadahmed5
-- Pratik 
+- Pratikgiri
   - :octocat: pratikgirigoswami
 - Rabjot 
   - :octocat: rabjotsinghsidhar
